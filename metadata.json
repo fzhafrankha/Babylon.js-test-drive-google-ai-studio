@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard: Chronicles of the Shattered Sun",
+  "description": "3D Open-World Action RPG built with Babylon.js featuring PBR atmospheric rendering, dynamic day-night cycles, real-time combat, and full touchscreen & desktop support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
